@@ -7,7 +7,8 @@ You can click the Preview link to take a look at your changes.
   <head>
     <!-- oh boi here we go -->
     <h1 align="center">SETUP IN PROGRESS</h1>
-    <h2 align="center"> eh? </h2>
+    <h2 align="center">eh?</h2>
+    <h3 align="center">other eh?<h3>
   </head>
   <body>
     <section>
