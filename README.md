@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 <!--- main info --->
 - 👋 Hello Hi, I’m @Engybear otherwise known as Nick
 
-- 📫 How to reach me [na.mutlak@gmail.com](na.mutlak@gmail.com)
+- 📫 How to reach me [na.mutlak@gmail.com](mailto:na.mutlak@gmail.com)
 
 - 📚 I’m currently learning 3rd Year Computer Engineering at UofT
 
