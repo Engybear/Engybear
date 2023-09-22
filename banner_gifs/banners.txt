@@ -1,0 +1,1 @@
+This folder holds all banner gifs that can be used in readme
