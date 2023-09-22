@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 <!--[[(https://github.com/Engybear/Engybear/blob/main/starry_night.gif) | width = 1000px]-->
 <p align="center">
-  <img src="https://github.com/Engybear/Engybear/blob/main/starry_night_update.gif" width="1000" height="200">
+  <img src="https://github.com/Engybear/Engybear/blob/main/banner_gifs/computer_tech.gif" width="1000" height="300">
 </p>
   
 <!--- HEADER --->
