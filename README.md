@@ -4,8 +4,12 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--- Banner --->
-![Banner]()
 
+<!--[[(https://github.com/Engybear/Engybear/blob/main/starry_night.gif) | width = 400px]-->
+
+![Banner](https://github.com/Engybear/Engybear/blob/main/starry_night.gif) 
+
+  
 <!--- HEADER --->
 <h1 align="center">Nicholas Mutlak (UofT Computer Engineering)</h1>
 <h3 align="center">Personal Github Portfolio - Full Stack Developer</h3>
