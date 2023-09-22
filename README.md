@@ -4,8 +4,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--- Banner --->
-
-<!--[[(https://github.com/Engybear/Engybear/blob/main/starry_night.gif) | width = 1000px]-->
 <p align="center">
   <img src="https://github.com/Engybear/Engybear/blob/main/banner_gifs/computer_tech.gif" width="1000" height="300">
 </p>
@@ -23,7 +21,9 @@ You can click the Preview link to take a look at your changes.
 
 - 💻 I’m current working on basic web development with HTML/CSS
 
+<!--- Links to Projects --->
 
+<!--- Programming Languages / Skills --->
 
   
 
