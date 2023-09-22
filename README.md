@@ -5,10 +5,10 @@ You can click the Preview link to take a look at your changes.
 
 <!--- Banner --->
 
-<!--[[(https://github.com/Engybear/Engybear/blob/main/starry_night.gif) | width = 400px]-->
-
-![Banner](https://github.com/Engybear/Engybear/blob/main/starry_night.gif) 
-
+<!--[[(https://github.com/Engybear/Engybear/blob/main/starry_night.gif) | width = 1000px]-->
+<p align="center">
+  <img src="https://github.com/Engybear/Engybear/blob/main/starry_night_update.gif" width="1000" height="200">
+</p>
   
 <!--- HEADER --->
 <h1 align="center">Nicholas Mutlak (UofT Computer Engineering)</h1>
