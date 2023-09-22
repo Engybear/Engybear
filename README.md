@@ -3,21 +3,23 @@ Engybear/Engybear is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-<html>
-  <head>
-    <!-- oh boi here we go -->
-    <h1 align="center">SETUP IN PROGRESS</h1>
-    <h2 align="center">eh?</h2>
-    <h3 align="center">other eh?<h3>
-  </head>
-  <body>
-    <section>
-      <p> - 👋 Hi, I’m @Engybear </p>
-      <p> - 👀 I’m interested in ... </p>
-      <p> - 🌱 I’m currently learning ... </p>
-      <p> - 💞️ I’m looking to collaborate on ... </p>
-      <p> - 📫 How to reach me ... </p>
-    </section>
-  </body>
-</html>
+<!--- Banner --->
+![Banner]()
+
+<!--- HEADER --->
+<h1 align="center">Nicholas Mutlak (UofT Computer Engineering)</h1>
+<h3 align="center">Personal Github Portfolio - Full Stack Developer</h3>
+
+<!--- main info --->
+- 👋 Hello Hi, I’m @Engybear otherwise known as Nick
+
+- 📫 How to reach me [na.mutlak@gmail.com](na.mutlak@gmail.com)
+
+- 📚 I’m currently learning 3rd Year Computer Engineering at UofT
+
+- 💻 I’m current working on basic web development with HTML/CSS
+
+
+
+  
 
