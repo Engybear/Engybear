@@ -17,9 +17,9 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me [na.mutlak@gmail.com](mailto:na.mutlak@gmail.com)
 
-- 📚 I’m currently learning 3rd Year Computer Engineering at UofT
+- 📚 I’m currently learning 4th Year Computer Engineering at UofT
 
-- 💻 I’m currently working on an Autonomous Driving design for the Robotics for Space Exploration (RSX) SEEK Competition
+- 💻 I’m currently working at Amazon as an Area Manager Intern
 
 <!--- Links to Projects --->
 
